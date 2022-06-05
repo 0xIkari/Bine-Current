@@ -1,5 +1,6 @@
 # Bine - Binary Extractor and File Carver
 ```mermaid
+graph TD
 0(Phase 1)
 1(Deciding what language to use.)
 2(Creation of plugin system.)
